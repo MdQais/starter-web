@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Qais      GIT expert  NO twitter,only KOO
 
 # THANKS
 
