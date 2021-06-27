@@ -17,6 +17,8 @@ Adding deployment description
 <<<<<<< HEAD
 <<<<<<< HEAD
 Some changes added to contribute 
+
+Please fork this and then use pull request for review
 =======
 CHanges made in remote to check the diff with local using "git diff master origin/master" command
 >>>>>>> 955d3eec03208db352b1722ac795f94b7e295a8f
