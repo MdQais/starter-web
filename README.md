@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work.
 Updating the description
 
 Adding a line for rebase example
+More changes added from myfeature branch
 
 ## Introduction
 Adding Introduction description
