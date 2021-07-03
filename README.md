@@ -28,3 +28,7 @@ CHanges made in remote to check the diff with local using "git diff master origi
 =======
 
 >>>>>>> 76fb6ec56cf94635b7db31296aad2e00fa8bd81a
+
+##Copyright
+
+Copy right changes added 
